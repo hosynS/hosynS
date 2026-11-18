@@ -67,6 +67,14 @@
 
 <img align="center" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" height="250px"/>
 
+## 🎧 Now Playing
+
+<div align="center">
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yllx63iqhctge4zaqygd2y3xte&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true&border_radius=15" alt="Spotify now playing card" width="420" />
+  </a>
+</div>
+
 ## 📫 How to reach me [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/hosynS)
 
 [<img src="assets/mail.png" height="50px" alt="Email me">](https://outlook.live.com/mail/0/deeplink/compose?to=shosyn%40outlook.com)
